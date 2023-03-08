@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Huge_Task_the_small_shop:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Huge_Task_the_small_shop_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Huge_Task_the_small_shop/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="Huge_Task_the_small_shop/web/Web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
