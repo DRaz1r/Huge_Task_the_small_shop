@@ -15,12 +15,12 @@
 
 ### 登陆界面
 
-![1](G:\qq594355134FILE\Java\Huge_Task_the_small_shop\img\1.png)
+![1](img\1.png)
 
 ### 商品管理
 
-![2](G:\qq594355134FILE\Java\Huge_Task_the_small_shop\img\2.png)
+![2](img\2.png)
 
 ### 用户数据库
 
-![3](G:\qq594355134FILE\Java\Huge_Task_the_small_shop\img\3.png)
+![3](img\3.png)
